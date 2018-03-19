@@ -1,24 +1,8 @@
 First public release !
 ========
-Our first app, a free augmented reality game,  is now available on the play store !
-[![Download](static/standard-icon-googleplay-app-store.png)](https://play.google.com/store/apps/details?id=fr.tvbarthel.games.chasewhisply) 
+Our first app, a free augmented reality game, It will be available on the play store !
+[![Download](static/standard-icon-googleplay-app-store.png)]
 
-
-Beta Test V3.3
-========
-The betat 3.3 is out ! Join the [Community](https://plus.google.com/communities/104127077976914732043) and download the application! 
-
-Modification
-* a "new mission" button that can be used to select a new mission from the score fragment.
-
-New Content
-* a mission system with 6 unique missions
-* a rank system for each mission
-
-A terrible attempt at making a trailer
-* [Youtube video](http://www.youtube.com/watch?v=ViO71hipJxk)
-
-Old Log - Beta Test V2.3
 ========
 
 Bug Fix
@@ -42,28 +26,8 @@ New Content
 Note
 * drop rates are very high for beta test purpose only
 
-![Chase Whisply banner](static/banner_chase_whisply.jpg)
-ChaseWhisplyProject
-========
-Chase Whisply is an "augmented reality" FPS. You have to seek, find and kill the ghosts living around you.
-
-![Chase Whisply screenshot](static/screenshot_menu.png)
-
-In Game
-========
-![Chase Whisply screenshot](static/screenshot_ingame.png)
-
 Credits and License
 ========
-Credits go to Thomas Barthélémy [https://github.com/tbarthel-fr](https://github.com/tbarthel-fr) and Vincent Barthélémy [https://github.com/vbarthel-fr](https://github.com/vbarthel-fr).
+Credits go to K.Arun Ganessh AG-vertise [https://github.com/arunkiddo](https://github.com/arunkiddo)
 
 Licensed under the Beerware License:
-
-<pre>
-You can do whatever you want with this stuff.
-If we meet some day, and you think this stuff is worth it, you can buy us a beer (or basically anything else) in return.
-</pre>
-
-Special Thanks to ...
-========
-Thomas Keunebroek [https://github.com/tkeunebr](https://github.com/tkeunebr) , for his early day support and precious advice.
